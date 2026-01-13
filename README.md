@@ -81,7 +81,7 @@ The project demonstrated how encoding, scaling, feature selection, and hyperpara
 -Reduce unnecessary marketing calls
 -Improve campaign efficiency
 
-
-
-
+Experiments and Iterations
+All intermediate notebooks showing different preprocessing, encoding, scaling and model tuning experiments are saved in the 'experiments/' folder.
+This demonstrates the thought process behind selecting the final model.
 
