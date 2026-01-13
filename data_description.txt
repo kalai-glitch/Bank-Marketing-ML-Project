@@ -1,0 +1,3 @@
+Dataset: Portuguese Bank Marketing
+Columns: age, job, marital, education, etc.
+Target: y (subscribe yes/no)
